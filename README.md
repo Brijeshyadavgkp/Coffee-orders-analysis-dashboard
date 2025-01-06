@@ -4,7 +4,7 @@
 This project is an Excel-based dashboard designed to analyze and visualize coffee order data. The dashboard showcases sales performance, customer insights, and country-based trends through dynamic and interactive visualizations.  
 
 ## 🔧 Tools and Features  
-The dashboard leverages the following Excel tools and functionalities:  
+The dashboard leverages the following Excel tools and functionalities:
 - **XLOOKUP**: For seamless data retrieval across sheets.  
 - **INDEX and MATCH**: For flexible and dynamic lookups.  
 - **Pivot Tables**: To efficiently summarize and analyze the data.  
